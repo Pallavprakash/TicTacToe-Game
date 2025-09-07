@@ -59,7 +59,7 @@ tic-tac-toe/
 * Smooth and interactive gameplay in the browser
 * Winning combination is highlighted for clarity
 * Works on desktop and mobile browsers
-* The results can be seen in the [`output/`](output/)folder
+* The results can be seen in the [`Output/`](Output/)folder
 
 ---
 
